@@ -1,0 +1,45 @@
+D:\Library\LibraryUI\bin\Debug\LibraryUI.exe.config
+D:\Library\LibraryUI\bin\Debug\LibraryUI.exe
+D:\Library\LibraryUI\bin\Debug\LibraryUI.pdb
+D:\Library\LibraryUI\obj\Debug\LibraryUI.csproj.AssemblyReference.cache
+D:\Library\LibraryUI\obj\Debug\LibraryUI.Properties.Resources.resources
+D:\Library\LibraryUI\obj\Debug\LibraryUI.csproj.GenerateResource.cache
+D:\Library\LibraryUI\obj\Debug\LibraryUI.csproj.CoreCompileInputs.cache
+D:\Library\LibraryUI\obj\Debug\LibraryUI.exe
+D:\Library\LibraryUI\obj\Debug\LibraryUI.pdb
+D:\Library\LibraryUI\bin\Debug\FontAwesome.Sharp.dll
+D:\Library\LibraryUI\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\Library\LibraryUI\obj\Debug\LibraryUI.FormPrincipal.resources
+D:\Library\LibraryUI\obj\Debug\LibraryUI.csproj.CopyComplete
+D:\Library\LibraryUI\obj\Debug\LibraryUI.FormRegBiblio.resources
+D:\Library\LibraryUI\obj\Debug\LibraryUI.FormContBiblio.resources
+D:\Library\LibraryUI\obj\Debug\LibraryUI.FormRegLib.resources
+D:\Library\LibraryUI\obj\Debug\LibraryUI.FormLibCat.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.csproj.AssemblyReference.cache
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.FormContBiblio.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.FormLibCat.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.FormPrincipal.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.FormRegBiblio.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.FormRegLib.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.FormRegLibToBiblio.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\JPortilla-ERestrepo--ProyectoBD1\Library\LibraryUI\obj\Debug\LibraryUI.csproj.GenerateResource.cache
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\LibraryUI.exe.config
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\LibraryUI.exe
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\LibraryUI.pdb
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.csproj.AssemblyReference.cache
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.FormContBiblio.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.FormLibCat.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.FormPrincipal.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.FormRegBiblio.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.FormRegLib.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.FormRegLibToBiblio.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.Properties.Resources.resources
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.csproj.GenerateResource.cache
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.csproj.CopyComplete
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.exe
+C:\Users\Edwin\OneDrive\Documentos\Base de Datos 1 - Proyecto\Proyect - Library - Origin\Library\LibraryUI\obj\Debug\LibraryUI.pdb
